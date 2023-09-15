@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.main-bg {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 10px;
+}
+
+.fruits-card {
+  min-height: 300px;
+  min-width: 300px;
+  background-color: #ffffff;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
